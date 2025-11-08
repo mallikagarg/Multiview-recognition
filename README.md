@@ -10,10 +10,10 @@ You can download HGM-4 datasets used in this project from the following links:
 
 run: bash train.sh
 
-#train_ad: address of train images
+#train_ad: address of train images<br>
 #validation_ad: address of validation images
 
 ## Dependencies
-Tensorflow
-Keras >= 2.0
-Python >= 2.7
+Tensorflow<br>
+Keras >= 2.0<br>
+Python >= 2.7<br>
