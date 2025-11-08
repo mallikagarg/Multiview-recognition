@@ -1,16 +1,16 @@
 ## Multiview Hand Gesture Recognition from Generated Gestures using Conditional Adversarial Network
 
-## 📂 Datasets
+## Datasets
 You can download HGM-4 datasets used in this project from the following links:
 
 *(https://data.mendeley.com/datasets/jzy8zngkbg/4)*
 
-## 🧠 Generation
+## Generation
 
 For gesture generation, refer to the TensorFlow Pix2Pix tutorial:  
 [https://www.tensorflow.org/tutorials/generative/pix2pix](https://www.tensorflow.org/tutorials/generative/pix2pix)
 
-## 🚀 For Training Recogniser
+## For Training Recogniser
 
 run: bash train.sh
 
